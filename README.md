@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Bottone LGBT con richiesta GET</title>
+<title>Bottone con richiesta GET</title>
 <style>
   .lgbt-button {
     padding: 12px 24px;
